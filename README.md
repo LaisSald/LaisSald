@@ -1,16 +1,19 @@
-### Hi there 👋
+### Oii! Eu sou a Laís Saldanha
 
-<!--
-**LaisSaldanha/LaisSaldanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente curso o 1° semestre de Ciência da Computação
+- 🌱 Aprendendo C#
+- 💬 Me contate no email abaixo!
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/LaisSaldanha">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LaisSaldanha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&locale=pt-br&rank_icon=github">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisSaldanha&layout=compact&lang_count=16&theme=dracula&bg_color=00000000&size_weight=0.5&count_weight=0.5&locale=pt-br">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href = "mailto:lsaldanharamos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/la%C3%ADs-saldanha-ramos-9710982b0)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/l_sald_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
